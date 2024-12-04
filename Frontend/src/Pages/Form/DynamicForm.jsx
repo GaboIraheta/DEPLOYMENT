@@ -11,7 +11,7 @@ import './DynamicForm.css';
 import { LoginContext, LoginProvider } from '../../Context/LoginContext';
 import config from '../../../config';
 import { FetchContext, FetchProvider } from '../../Context/FetchContext';
-import Unauthorized from '../../Components/Unauthorized/Unauthorized';
+import Unauthorized from '../../components/Unauthorized/Unauthorized';
 import useUtil from '../../Hooks/useUtil';
 import { Modal, Button, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';

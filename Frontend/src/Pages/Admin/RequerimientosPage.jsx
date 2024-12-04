@@ -10,7 +10,7 @@ import API_URL from "../../../config";
 import './RequerimientosPage.css';
 import { LoginContext, LoginProvider } from "../../Context/LoginContext";
 import config from '../../../config';
-import Unauthorized from "../../Components/Unauthorized/Unauthorized";
+import Unauthorized from "../../components/Unauthorized/Unauthorized";
 import AdminNavBar from "../../components/Navigation/AdminNavBar";
 import Footer from "../../components/Footer/Footer";
 
