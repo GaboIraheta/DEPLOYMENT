@@ -1,0 +1,7 @@
+# Ignorar node_modules para reconstrucción eficiente
+node_modules
+npm-debug.log
+.DS_Store
+.env
+*.log
+*.lock
